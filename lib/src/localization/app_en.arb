@@ -1,0 +1,6 @@
+{
+  "appTitle": "rick_and_morty_graphql",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
